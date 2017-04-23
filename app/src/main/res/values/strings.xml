@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Flashlight</string>
+    <string name="flashlight_on">Flashlight On</string>
+    <string name="flashlight_off">Flashlight Off</string>
+    <string name="permissions">Permissions</string>
+    <string name="ok">OK</string>
+    <string name="permissions_message">Cannot work without these permissions</string>
+</resources>
